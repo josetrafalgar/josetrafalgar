@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+Redes Sociais/Social Links
 <a href="https://www.linkedin.com/in/josetrafalgar/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="100" /></a>
 
 
