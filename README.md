@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=Josetrafalgar&show_icons=true&theme=radical" width="400">
 
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=radical)](https://git.io/streak-stats) 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Josetrafalgar&theme=radical)](https://git.io/streak-stats) 
