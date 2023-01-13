@@ -18,7 +18,7 @@ Redes Sociais/Social Links
 <a href="https://www.linkedin.com/in/josetrafalgar/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50" /></a>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josetrafalgar)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josetrafalgar)](https://github.com/anuraghazra/github-readme-stats)
 
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Josetrafalgar&theme=radical)](https://git.io/streak-stats) 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=josetrafalgar&theme=radical)](https://git.io/streak-stats) 
