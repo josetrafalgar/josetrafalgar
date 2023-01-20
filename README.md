@@ -20,4 +20,4 @@ Redes Sociais/Social Links
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=josetrafalgar&show_icons=true&theme=dark)
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=josetrafalgar&theme=dark)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=josetrafalgar)](https://git.io/streak-stats) 
